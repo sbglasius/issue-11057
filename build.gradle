@@ -1,0 +1,5 @@
+group 'url.mappings.bug'
+
+subprojects {
+    group 'url.mappings.bug'
+}
